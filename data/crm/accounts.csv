@@ -1,0 +1,24 @@
+account_id,account_name,industry,company_size,region,annual_revenue_mm,tech_stack,current_tools,nps_score,health_score,monthly_active_users,contract_start_date,contract_value,renewal_date,csm_name,last_cs_touch,support_tickets_open,support_tickets_90d
+A001,Nextera Corp,Financial Services,2500,North America,890,Modern,Salesforce + Excel,72,85,145,2025-10-15,128000,2026-10-15,Lisa Park,2025-12-10,0,3
+A002,Brightline Solutions,Technology,450,North America,120,Modern,HubSpot,65,78,38,2025-10-22,42000,2026-10-22,Lisa Park,2025-12-08,1,5
+A003,Crestview Financial,Financial Services,800,North America,340,Modern,Salesforce,80,92,67,2025-10-05,55000,2026-10-05,Tom Walsh,2025-12-12,0,1
+A004,Quantum Dynamics,Technology,120,EMEA,35,Modern,None,58,65,12,2025-09-30,18000,2026-09-30,Lisa Park,2025-11-20,2,8
+A005,Vanguard Insurance Co,Insurance,6200,North America,2100,Legacy,Salesforce + Custom,75,88,210,2025-12-01,195000,2026-12-01,Tom Walsh,2025-12-15,1,4
+A006,Cascade Energy,Energy,700,North America,280,Modern,HubSpot,70,80,52,2025-11-05,52000,2026-11-05,Lisa Park,2025-12-05,0,2
+A007,Pinnacle Retail Group,Retail,4100,EMEA,1500,Mixed,SAP + Excel,68,75,180,2025-11-20,145000,2026-11-20,Tom Walsh,2025-12-14,2,6
+A008,Meridian Consulting,Professional Services,200,North America,45,Modern,None,62,70,18,2025-10-18,22000,2026-10-18,Lisa Park,2025-12-01,1,3
+A009,Blueshift Analytics,Technology,520,North America,160,Modern,Gong,77,85,45,2025-10-25,47000,2026-10-25,Tom Walsh,2025-12-11,0,2
+A010,Northstar Financial,Financial Services,4500,North America,1800,Legacy,Salesforce + Custom,82,90,195,2025-11-28,175000,2026-11-28,Tom Walsh,2025-12-16,0,1
+A011,Apex Biotechnology,Life Sciences,650,EMEA,210,Modern,HubSpot,73,82,48,2025-10-30,58000,2026-10-30,Lisa Park,2025-12-09,1,4
+A012,Emerald Technologies,Technology,3000,North America,950,Modern,Salesforce,78,87,165,2025-12-10,160000,2026-12-10,Tom Walsh,2025-12-18,0,2
+A013,Zenith Pharmaceuticals,Life Sciences,5500,EMEA,2400,Mixed,SAP + Custom,76,84,230,2025-11-15,190000,2026-11-15,Tom Walsh,2025-12-13,1,3
+A014,Granite Builders Inc,Construction,180,North America,40,Basic,Excel,55,60,10,2025-10-08,19000,2026-10-08,Lisa Park,2025-11-15,3,10
+A015,Velocity Automotive,Automotive,2800,North America,780,Modern,Salesforce,71,80,120,2025-12-05,135000,2026-12-05,Tom Walsh,2025-12-17,0,2
+A016,Maple Leaf Finance,Financial Services,900,North America,380,Modern,HubSpot,74,83,65,2025-11-22,62000,2026-11-22,Lisa Park,2025-12-10,0,1
+A017,Crimson Medical Group,Healthcare,4200,North America,1600,Mixed,Epic + Excel,79,88,175,2025-12-18,155000,2026-12-18,Tom Walsh,2025-12-20,0,2
+A018,Neon Digital Inc,Technology,45,North America,8,Modern,None,60,62,5,2025-09-28,16000,2026-09-28,Lisa Park,2025-11-10,2,7
+A019,Sterling Legal Partners,Legal,320,North America,85,Modern,None,67,76,28,2025-10-12,44000,2026-10-12,Lisa Park,2025-12-06,1,3
+A020,Coral Clinic Group,Healthcare,160,North America,32,Basic,Excel,63,68,14,2025-10-20,24000,2026-10-20,Lisa Park,2025-11-25,1,5
+A021,Diamond Stores Inc,Retail,620,North America,240,Modern,Salesforce,72,80,50,2025-11-02,51000,2026-11-02,Tom Walsh,2025-12-08,0,2
+A022,Aurora Software Inc,Technology,780,EMEA,260,Modern,Salesforce,85,93,68,2025-11-08,65000,2026-11-08,Lisa Park,2025-12-12,0,0
+A023,Flux Automation Inc,Technology,2600,North America,820,Modern,Salesforce + Custom,76,84,140,2025-12-12,185000,2026-12-12,Tom Walsh,2025-12-19,1,3

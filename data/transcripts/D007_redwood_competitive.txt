@@ -1,0 +1,24 @@
+CALL TRANSCRIPT - Redwood Logistics Competitive Discussion
+Date: September 5, 2025
+Attendees: Jake Morrison (AE), Rachel Torres (Director Sales Ops, Redwood Logistics)
+Duration: 28 minutes
+
+Jake Morrison: Rachel, thanks for the update. You mentioned you've had a chance to demo Gong as well. I'd love to hear your thoughts on how we compare.
+
+Rachel Torres: Yeah, so I'll be straightforward with you Jake. Your platform is broader — the pipeline analytics, the forecasting, the activity capture — that stuff is better than what Gong showed us. But our number one priority right now is conversation intelligence. We need to understand what's happening on calls.
+
+Jake Morrison: We do conversation intelligence as well. Our call analytics covers sentiment, talk-to-listen ratio, key topics, and objection detection.
+
+Rachel Torres: Right, I saw that in the demo. But honestly, Gong's CI felt more polished. The way they surface coaching moments, the deal boards built from call data, the competitor mention tracking — it felt like they've been doing this for 10 years. Your CI feels more like a feature, and Gong's CI feels like a platform.
+
+Jake Morrison: That's fair feedback. The difference is that we give you the full revenue intelligence picture — CI plus pipeline plus forecasting plus activity capture. With Gong, you still need other tools for those pieces.
+
+Rachel Torres: I get that, and if we were buying a full platform, you'd probably win. But our VP Sales specifically asked for conversation intelligence. That's the budget line item. Pipeline analytics might be a project for next year, but right now it's CI or nothing.
+
+Jake Morrison: What if we structured a deal where you started with CI and we phased in pipeline analytics at no additional cost for the first year?
+
+Rachel Torres: I appreciate the creative pricing, but the decision is really about product depth in CI. Our VP Sales did a side-by-side comparison during the evaluation and Gong's call analysis was noticeably more detailed. She's pretty set on it.
+
+Jake Morrison: Is there any way to get time with the VP Sales directly? I'd love to address her specific concerns.
+
+Rachel Torres: She's already made the recommendation to our CFO. I think we're past that point. I'm sorry, Jake. Your product is good and I can see us circling back for the pipeline piece next year, but for this round, it's going to be Gong.

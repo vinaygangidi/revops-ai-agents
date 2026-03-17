@@ -1,0 +1,36 @@
+CALL TRANSCRIPT - Orion Health Systems Discovery Call
+Date: June 1, 2025
+Attendees: Sarah Chen (AE), Karen Nakamura (VP Operations, Orion Health)
+Duration: 35 minutes
+
+Sarah Chen: Karen, thanks for joining. I'd love to understand what's driving your interest in revenue intelligence right now.
+
+Karen Nakamura: We're growing fast and our pipeline visibility is terrible. We went from 200 to 500 reps in 18 months and our existing tools can't keep up. We need better pipeline analytics and deal tracking.
+
+Sarah Chen: That's rapid growth. What tools are you using today?
+
+Karen Nakamura: We're a Salesforce shop through and through. CRM, Service Cloud, Marketing Cloud — everything runs on Salesforce. Our IT team has built a lot of custom workflows on the platform.
+
+Sarah Chen: Got it. And where specifically is the gap?
+
+Karen Nakamura: Pipeline reporting and conversation intelligence. Salesforce gives us the CRM data but we don't have a good way to understand what's actually happening in deals beyond what reps log. We need call analytics and pipeline scoring.
+
+Sarah Chen: That's our sweet spot. We integrate directly with Salesforce and layer on deal intelligence, conversation analytics, and predictive forecasting. Can I ask — has your team looked at any other solutions?
+
+Karen Nakamura: We're looking at a few options. Honestly, Salesforce has been pitching us hard on Revenue Cloud. The appeal is that it's native — no integration, no new vendor, no new contract. Our IT team loves that idea.
+
+Sarah Chen: I understand the appeal of staying native. The tradeoff is usually depth of analytics. Can you tell me more about what your IT team's concerns are?
+
+Karen Nakamura: They're stretched thin. We've added 14 SaaS tools in the last year. Every new vendor means another integration to maintain, another security review, another contract. Our CIO has basically said no new vendors unless there's a compelling reason.
+
+Sarah Chen: That's a real constraint. What if I could show you that our Salesforce integration is fully managed and takes less than a day to set up?
+
+Karen Nakamura: That would help but I'll be honest — the bigger issue is the CIO. If Salesforce can do 80 percent of what we need natively, even if your product does 100 percent, the CIO will choose Salesforce. It's just how our org works right now.
+
+Sarah Chen: I appreciate the honesty. Would it be possible to get time with the CIO to understand their requirements directly?
+
+Karen Nakamura: I can try but he's very hard to pin down. Let me see what I can do. In the meantime, can you send me your integration documentation? I want to at least arm myself with the facts.
+
+Sarah Chen: Absolutely. I'll send that over today. And Karen — the deals where we win against Salesforce native are usually when the business owner can quantify the revenue impact of the gap between 80 percent and 100 percent. Happy to help you build that case.
+
+Karen Nakamura: That's good advice. Let me work on it internally and I'll get back to you next week.

@@ -1,0 +1,25 @@
+contact_id,deal_id,account_name,contact_name,title,role_in_deal,email_engagement,last_contact_date
+C001,D001,Nextera Corp,David Martinez,VP Sales,Champion,High,2025-10-10
+C002,D001,Nextera Corp,Linda Chen,CFO,Economic Buyer,Medium,2025-10-10
+C003,D001,Nextera Corp,Jennifer Wu,Head of RevOps,Evaluator,High,2025-10-05
+C004,D003,Orion Health Systems,Karen Nakamura,VP Operations,Champion,Medium,2025-09-15
+C005,D003,Orion Health Systems,Robert Kim,CIO,Economic Buyer,None,2025-06-01
+C006,D003,Orion Health Systems,Tom Patel,IT Director,Blocker,Low,2025-07-15
+C007,D005,Atlas Manufacturing,Greg Thompson,VP Manufacturing,Evaluator,Low,2025-08-30
+C008,D007,Redwood Logistics,Rachel Torres,Director Sales Ops,Champion,High,2025-10-20
+C009,D007,Redwood Logistics,Diana Moss,VP Sales,Decision Maker,None,2025-08-10
+C010,D008,Pinnacle Retail Group,Sandra Lee,CRO,Economic Buyer,High,2025-11-15
+C011,D008,Pinnacle Retail Group,Amy Park,VP Sales,Champion,High,2025-11-15
+C012,D008,Pinnacle Retail Group,Kevin Zhao,IT Director,Evaluator,Medium,2025-10-20
+C013,D010,Vanguard Insurance Co,Marcus Hall,CRO,Economic Buyer,High,2025-11-25
+C014,D010,Vanguard Insurance Co,Patricia Simmons,VP Rev Ops,Champion,High,2025-11-25
+C015,D013,Summit Health Partners,Mike Anderson,VP Sales,Champion,High,2025-11-20
+C016,D013,Summit Health Partners,CFO (unknown),CFO,Economic Buyer,None,2025-05-01
+C017,D015,Ironclad Defense,Richard Hayes,CISO,Decision Maker,Medium,2025-11-01
+C018,D015,Ironclad Defense,Security Team,Security Lead,Blocker,High,2025-08-15
+C019,D018,Northstar Financial,James Walsh,CRO,Economic Buyer + Champion,High,2025-11-28
+C020,D018,Northstar Financial,RevOps Team,Head of RevOps,Evaluator,High,2025-11-20
+C021,D028,Titan Aerospace,VP Sales (unnamed),VP Sales,Champion,Low,2025-10-15
+C022,D028,Titan Aerospace,Procurement Team,Procurement Lead,Blocker,Medium,2025-12-10
+C023,D032,Cobalt Resources Ltd,Former VP Sales,VP Sales (fired),Former Champion,None,2025-09-15
+C024,D032,Cobalt Resources Ltd,New VP Sales,VP Sales (new),Blocker,None,2025-11-15

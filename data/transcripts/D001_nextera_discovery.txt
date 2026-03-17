@@ -1,0 +1,38 @@
+CALL TRANSCRIPT - Nextera Corp Discovery Call
+Date: June 15, 2025
+Attendees: Sarah Chen (AE), David Martinez (VP Sales, Nextera Corp)
+Duration: 42 minutes
+
+Sarah Chen: Thanks for making time today, David. You mentioned on our initial call that forecast accuracy has been a pain point. Can you walk me through what that looks like day to day?
+
+David Martinez: Yeah, honestly it's been brutal. We've missed our board forecast three quarters in a row. Not by a little — by 15 to 20 percent each time. The board is losing confidence in our revenue leadership team, and my CRO is under real pressure.
+
+Sarah Chen: That's significant. When you say you missed by 15 to 20 percent, is that on the upside or downside?
+
+David Martinez: Downside every time. We commit a number, and we come in under. The problem is our reps put deals in commit that have no business being there. We have no way to validate what's real versus what's wishful thinking.
+
+Sarah Chen: How are you managing the forecast process today?
+
+David Martinez: Spreadsheets and gut feel, basically. Every Monday we do a pipeline review where managers ask reps how they feel about their deals. It's all subjective. We have Salesforce but the data in there is garbage — reps don't update it.
+
+Sarah Chen: And what happens when a deal slips that was in commit?
+
+David Martinez: Chaos. The CRO has to go to the board and explain why we missed. Then there's a week of fire drills trying to pull in other deals. It's exhausting and it's not sustainable. Our CFO has actually started sitting in on pipeline reviews because he doesn't trust the numbers.
+
+Sarah Chen: What would it look like if this was solved?
+
+David Martinez: I need to walk into a forecast call and know — based on real data, not opinions — which deals are going to close and which ones are at risk. I want to catch slipping deals two weeks before they slip, not two days after they were supposed to close.
+
+Sarah Chen: That's exactly what our platform does. Let me show you how we score deal health based on actual engagement signals, not rep self-reporting. We look at email activity, call sentiment, stakeholder engagement, and stage velocity to give you a 1-to-10 health score on every deal.
+
+David Martinez: That sounds like what we need. Who else in our space is using this?
+
+Sarah Chen: Several financial services firms of your size. I can share a case study from a company that went from 62 percent forecast accuracy to 91 percent in two quarters.
+
+David Martinez: Send that over. I want to share it with our CRO. If we can get a pilot going by end of Q3, I think I can get budget approval fast. The pain is acute enough that nobody's going to push back.
+
+Sarah Chen: Great. Let me put together an ROI framework specific to your numbers and we can schedule an executive briefing with your CRO for next month. Who else should be involved in the evaluation?
+
+David Martinez: Our Head of Rev Ops, Jennifer, and probably our IT director for the Salesforce integration piece. But the decision is mine and the CRO's — this is a revenue problem, not an IT problem.
+
+Sarah Chen: Perfect. I'll send over the ROI model and case study today and we'll get that exec briefing on the calendar.

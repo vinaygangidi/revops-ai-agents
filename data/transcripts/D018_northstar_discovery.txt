@@ -1,0 +1,32 @@
+CALL TRANSCRIPT - Northstar Financial Group Discovery Call
+Date: June 15, 2025
+Attendees: Marcus Rivera (AE), James Walsh (CRO, Northstar Financial)
+Duration: 38 minutes
+
+Marcus Rivera: James, I appreciate you taking this call directly. It's not every day a CRO reaches out to us inbound.
+
+James Walsh: I'll tell you why. I just came out of a board meeting where I got embarrassed. We missed forecast by 22 percent, the third straight quarter. The board has given me until end of year to fix our revenue operations or they're going to bring in someone who will. I don't have time to waste.
+
+Marcus Rivera: That's a serious mandate. Can you walk me through what's broken?
+
+James Walsh: Everything. Our CRM data is garbage because reps don't update it. We have no visibility into what's happening in deals beyond what people tell us in pipeline reviews. Our forecast is basically a guess. I have 45 reps and I'd say maybe 10 of them keep their Salesforce records current.
+
+Marcus Rivera: When you think about solving this, what does success look like in 6 months?
+
+James Walsh: Three things. One, I want CRM data that updates itself from calls and emails so I don't depend on reps. Two, I want a deal health score on every opportunity so I know which deals are real and which ones are fluff before the pipeline review. Three, I want a forecast model that's based on data, not opinions.
+
+Marcus Rivera: All three of those are core to what we do. The activity capture syncs emails and calendar data into Salesforce automatically. The deal intelligence engine scores every opportunity on a 1-to-10 scale based on engagement signals. And the forecast model uses historical win rates and real-time signals to predict outcomes.
+
+James Walsh: Who on your team has done this for a financial services company our size? We're 4500 people, regulated industry, Salesforce enterprise.
+
+Marcus Rivera: I can connect you with our VP of Customer Success who ran the implementation for a comparable financial services firm. They went from 58 percent to 89 percent forecast accuracy in two quarters. Same size, same tech stack.
+
+James Walsh: Set that up. I also want a pilot. I'll give you my enterprise team — 15 reps — for 90 days. If you can show me measurable improvement in pipeline visibility and forecast accuracy, I'll roll it out to the entire org and sign a multi-year deal.
+
+Marcus Rivera: We can absolutely do that. What's your timeline for getting the pilot started?
+
+James Walsh: Yesterday. I have full budget authority for this. I don't need to go to procurement for anything under $250K. If you can get me a proposal by Friday, I'll have it signed by Monday.
+
+Marcus Rivera: You'll have it tomorrow. Let me pull in our solutions team to scope the pilot properly and I'll send you a proposal with the pilot plan and success criteria.
+
+James Walsh: Good. And Marcus — I've talked to three other vendors this month. You're the only one who asked me what success looks like instead of just demoing features. That matters.
