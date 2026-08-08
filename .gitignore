@@ -10,3 +10,13 @@ Thumbs.db
 
 # Node (if any scripts added later)
 node_modules/
+
+# Environment & secrets — never commit
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+**/secrets.toml
+*.pem
+*.key
