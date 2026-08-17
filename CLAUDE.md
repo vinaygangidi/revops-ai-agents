@@ -1,8 +1,11 @@
 # RevOps AI Agents
 
 ## Project Overview
-This repo contains 16 AI-powered RevOps workflow agents built for Claude Code CLI.
+This repo contains 7 RevOps workflow agents built for Claude Code CLI.
 Each agent is a specialized subagent that processes CRM data, call transcripts, and pipeline information to automate Revenue Operations tasks.
+
+There is no application code in this repo — only agent definitions, sample data, and
+example reports. The runtime is the Claude Code CLI itself.
 
 ## Business Context
 - **Company type:** B2B SaaS
@@ -34,8 +37,14 @@ claude "Run the win-loss-analyst agent on deals from Q4"
 claude --agent .claude/agents/win-loss-analyst.md "Analyze closed deals from last quarter"
 ```
 
-## Workflow Sections
-1. **Revenue Intelligence** — Win/Loss, ICP Analysis, Competitive Intel, Churn Signals
-2. **Deal Intelligence** — Deal Risk, Objections, MEDDIC Compliance, Call Summaries
-3. **Pipeline & Forecast** — Forecast Prediction, Coverage Analysis, Pipeline Hygiene, Scenario Planning
-4. **AI Productivity** — Call Coaching, CRM Updates, Methodology Summaries, Follow-Up Emails
+## Available Agents
+Seven agents exist, grouped in two areas:
+
+1. **Revenue Intelligence** — `win-loss-analyst`, `icp-analyst`, `competitive-intel`,
+   `churn-detector`
+2. **Deal Intelligence** — `deal-risk-assessor`, `meddic-checker`, `objection-mapper`
+
+Do not reference agents outside this list. Pipeline & Forecast and AI Productivity agents
+(forecast-predictor, coverage-analyzer, pipeline-hygiene, scenario-planner, call-coach,
+crm-updater, methodology-summarizer, followup-drafter, call-summarizer) were planned but
+never written, and no definition files exist for them.
